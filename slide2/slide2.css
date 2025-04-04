@@ -1,0 +1,106 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.s1 {
+	position: absolute;
+	width: 1024px;
+	height: 768px;
+	z-index: 1;
+}
+
+.s2 {
+	position: absolute;
+  left: 603px;
+  top: 75px;
+  width: 324px;
+  height: 155px;
+	animation: slideInRight 0.3s;
+	animation-delay: 0.2s;
+	animation-fill-mode: both;
+	z-index: 5;
+}
+
+.s3 {
+	position: absolute;
+  left: 605px;
+  top: 110px;
+  width: 249px;
+  height: 92px;
+	animation: flashLongOn 0.5s;
+	animation-delay: 0.8s;
+	animation-fill-mode: both;
+	z-index: 5;
+}
+
+.s4 {
+	position: absolute;
+  left: 683px;
+  top: 140px;
+  width: 280px;
+  height: 60px;
+	animation: flashLongOn 0.5s;
+	animation-delay: 1.4s;
+	animation-fill-mode: both;
+	z-index: 5;
+}
+
+.s5 {
+	position: absolute;
+  left: 585px;
+  top: 262px;
+  width: 411px;
+  height: 166px;
+	animation: zoomIn 0.5s;
+	animation-delay: 2.2s;
+	animation-fill-mode: both;
+	z-index: 5;
+}
+
+.s6 {
+	position: absolute;
+  left: 714px;
+  top: 452px;
+  width: 137px;
+  height: 138px;
+	animation: stampIn 0.3s;
+	animation-delay: 2.7s;
+	animation-fill-mode: both;
+	z-index: 5;
+}
+
+.s7 {
+	position: absolute;
+  left: 646px;
+  top: 640px;
+  width: 248px;
+  height: 69px;
+	animation: fadeInRight 0.5s;
+	animation-delay: 3.2s;
+	animation-fill-mode: both;
+	z-index: 5;
+}
+
+@keyframes flashLongOn {
+  0%, 40%, 80% {
+    opacity: 0;
+  }
+
+  20%, 60%, 100% {
+    opacity: 1;
+  }
+}
+
+
+@keyframes stampIn {
+	0%	{
+		transform-origin: 50% 50%;
+		transform: scale(3);
+		opacity: 0;
+	}
+	100%	{
+		transform: scale(1);
+		opacity: 1;
+	}
+}
