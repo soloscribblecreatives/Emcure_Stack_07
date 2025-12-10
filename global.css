@@ -237,3 +237,47 @@ html[xmlns] .clearfix {
 	background-color: rgba(0,0,0,0.5);
 	color: #ffffff;
 }
+
+.hit_1, .hit_2  {
+  position: absolute;
+  width: 1080px;
+  height: 810px;
+  display: none;
+  z-index: 15;
+}
+
+.hit_pop1 {
+	position: absolute;
+  left: 0px;
+  top: 588px;
+  width: 99px;
+  height: 142px;
+	z-index: 10;
+}
+
+.hit_pop2 {
+	position: absolute;
+  left: 426px;
+  top: 532px;
+  width: 295px;
+  height: 191px;
+	z-index: 10;
+}
+
+.hit_close1 {
+	position: absolute;
+  width: 1080px;
+  height: 810px;
+	display: none;
+	z-index: 20;
+}
+
+@keyframes flashLongOff {
+  0%,  100% {
+    opacity: 0;
+  }
+
+  25%, 50%, 75% {
+    opacity: 1;
+  }
+}
