@@ -243,7 +243,7 @@ html[xmlns] .clearfix {
   width: 1080px;
   height: 810px;
   display: none;
-  z-index: 15;
+  z-index: 45;
 }
 
 .hit_pop1 {
@@ -252,7 +252,7 @@ html[xmlns] .clearfix {
   top: 588px;
   width: 99px;
   height: 142px;
-	z-index: 10;
+	z-index: 40;
 }
 
 .hit_pop2 {
@@ -261,7 +261,7 @@ html[xmlns] .clearfix {
   top: 532px;
   width: 295px;
   height: 191px;
-	z-index: 10;
+	z-index: 40;
 }
 
 .hit_close1 {
@@ -269,7 +269,7 @@ html[xmlns] .clearfix {
   width: 1080px;
   height: 810px;
 	display: none;
-	z-index: 20;
+	z-index: 50;
 }
 
 @keyframes flashLongOff {
