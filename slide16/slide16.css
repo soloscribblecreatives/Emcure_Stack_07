@@ -25,10 +25,10 @@
 
 .s3 {
 	position: absolute;
-  left: 135px;
-  top: 211px;
-  width: 799px;
-  height: 58px;
+  left: 142px;
+  top: 210px;
+  width: 797px;
+  height: 59px;
 	animation: fadeInUp 0.5s;
 	animation-delay: 0.5s;
 	animation-fill-mode: both;
@@ -50,9 +50,9 @@
 .s5 {
 	position: absolute;
   left: 66px;
-  top: 372px;
-  width: 182px;
-  height: 218px;
+  top: 371px;
+  width: 181px;
+  height: 219px;
 	animation: zoomIn 0.5s;
 	animation-delay: 1.2s;
 	animation-fill-mode: both;
@@ -63,9 +63,9 @@
 .s6 {
 	position: absolute;
   left: 258px;
-  top: 361px;
-  width: 182px;
-  height: 229px;
+  top: 360px;
+  width: 181px;
+  height: 230px;
 	animation: zoomIn 0.5s;
 	animation-delay: 1.4s;
 	animation-fill-mode: both;
@@ -101,9 +101,9 @@
 
 .s9 {
 	position: absolute;
-  left: 833px;
+  left: 834px;
   top: 329px;
-  width: 182px;
+  width: 181px;
   height: 261px;
 	animation: zoomIn 0.5s;
 	animation-delay: 2s;
@@ -115,8 +115,8 @@
 .s10 {
 	position: absolute;
   left: 150px;
-  top: 617px;
-  width: 383px;
+  top: 618px;
+  width: 389px;
   height: 63px;
 	animation: fadeInRight 0.5s;
 	animation-delay: 2.5s;
@@ -126,9 +126,9 @@
 
 .s11 {
 	position: absolute;
-  left: 580px;
+  left: 579px;
   top: 617px;
-  width: 340px;
+  width: 328px;
   height: 63px;
 	animation: fadeInRight 0.5s;
 	animation-delay: 2.7s;

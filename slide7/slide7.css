@@ -68,7 +68,7 @@
   width: 248px;
   height: 206px;
 	animation: fadeInRight 0.5s;
-	animation-delay: 1.8s;
+	animation-delay: 2.3s;
 	animation-fill-mode: both;
 	z-index: 15;
 }
@@ -79,8 +79,8 @@
   top: 421px;
   width: 146px;
   height: 54px;
-	animation: flashLongOff 2s infinite;
-	animation-delay: 2.3s;
+	animation: fadeInRight 0.5s;
+	animation-delay: 2.4s;
 	animation-fill-mode: both;
 	z-index: 15;
 }
@@ -91,8 +91,8 @@
   top: 258px;
   width: 413px;
   height: 449px;
-	animation: revealVerticalUp 0.7s;
-	animation-delay: 2.5s;
+	animation: revealVerticalUp 0.5s;
+	animation-delay: 1.8s;
 	animation-fill-mode: both;
 	clip: rect(600px,500px,600px,0px);
 	z-index: 15;

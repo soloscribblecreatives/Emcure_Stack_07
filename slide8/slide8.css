@@ -64,9 +64,9 @@
 .s5 {
 	position: absolute;
   left: 86px;
-  top: 383px;
+  top: 372px;
   width: 434px;
-  height: 173px;
+  height: 184px;
 	animation: revealHorizontalRight 0.7s;
 	animation-delay: 1.5s;
 	animation-fill-mode: both;
@@ -101,11 +101,11 @@
 
 .s7 {
 	position: absolute;
-  left: 105px;
-  top: 245px;
-  width: 155px;
-  height: 172px;
-	animation: flashLongOff 2s infinite;
+  left: 110px;
+  top: 615px;
+  width: 491px;
+  height: 108px;
+	animation: fadeInRight 0.5s;
 	animation-delay: 2s;
 	animation-fill-mode: both;
 	z-index: 5;

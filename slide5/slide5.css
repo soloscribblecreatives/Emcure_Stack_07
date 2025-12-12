@@ -98,13 +98,25 @@
 	z-index: 15;
 }
 
-.s8 {
+.s8w {
 	position: absolute;
   left: 638px;
-  top: 547px;
-  width: 52px;
-  height: 57px;
-	animation: leftRight 1s infinite;
+  top: 538px;
+  width: 281px;
+  height: 76px;
+	animation: zoomIn 0.5s;
+	animation-delay: 2.5s;
+	animation-fill-mode: both;
+	z-index: 15;
+}
+
+.s8 {
+	position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 281px;
+  height: 76px;
+	animation: flashLongOff 2s infinite;
 	animation-delay: 2.5s;
 	animation-fill-mode: both;
 	z-index: 15;
