@@ -16,7 +16,7 @@
   top: 51px;
   width: 698px;
   height: 38px;
-	animation: fadeInUp 0.5s;
+	animation: none 0.5s;
 	animation-delay: 0.2s;
 	animation-fill-mode: both;
 	z-index: 5;
@@ -28,7 +28,7 @@
   top: 160px;
   width: 398px;
   height: 241px;
-	animation: zoomIn 0.5s;
+	animation: none 0.5s;
 	animation-delay: 0.7s;
 	animation-fill-mode: both;
 	transform-origin: left;
@@ -41,7 +41,7 @@
   top: 491px;
   width: 454px;
   height: 243px;
-	animation: zoomIn 0.5s;
+	animation: none 0.5s;
 	animation-delay: 1.2s;
 	animation-fill-mode: both;
 	transform-origin: left;
