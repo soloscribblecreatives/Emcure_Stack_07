@@ -48,7 +48,7 @@
   top: 473px;
   width: 274px;
   height: 83px;
-	animation: revealHorizontalRight 1s;
+	animation: revealHorizontalRight 2s;
 	animation-delay: 1s;
 	animation-fill-mode: both;
 	clip: rect(0px,0px,100px,0px);
@@ -73,10 +73,10 @@
   top: 317px;
   width: 466px;
   height: 311px;
-	animation: bounceIn 0.3s;
+	animation: none 0.3s;
 	animation-delay: 1.5s;
 	animation-fill-mode: both;
-	z-index: 5;
+	z-index: 10;
 }
 
 .s6 {
@@ -85,7 +85,7 @@
   top: 333px;
   width: 486px;
   height: 295px;
-	animation: fadeIn 0.5s;
+	animation: none 0.5s;
 	animation-delay: 1.8s;
 	animation-fill-mode: both;
 	z-index: 5;
@@ -98,7 +98,7 @@
   width: 281px;
   height: 99px;
 	animation: zoomIn 0.5s;
-	animation-delay: 2.3s;
+	animation-delay: 2s;
 	animation-fill-mode: both;
 	z-index: 5;
 }
@@ -110,7 +110,7 @@
   width: 250px;
   height: 92px;
 	animation: zoomIn 0.5s;
-	animation-delay: 2.5s;
+	animation-delay: 2s;
 	animation-fill-mode: both;
 	z-index: 5;
 }

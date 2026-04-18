@@ -48,7 +48,7 @@
   width: 411px;
   height: 134px;
 	animation: backInRight 0.7s;
-	animation-delay: 1.2s;
+	animation-delay: 0.7s;
 	animation-fill-mode: both;
 	z-index: 5;
 }
@@ -60,7 +60,7 @@
   width: 411px;
   height: 134px;
 	animation: backInRight 0.7s;
-	animation-delay: 1.3s;
+	animation-delay: 0.7s;
 	animation-fill-mode: both;
 	z-index: 5;
 }

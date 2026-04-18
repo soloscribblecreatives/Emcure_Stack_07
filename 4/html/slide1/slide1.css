@@ -26,6 +26,7 @@
   	animation: flash 2s infinite;
 	animation-delay: 0s;
 	animation-fill-mode: both;
+	display: none;
   z-index: 2;
 }
 

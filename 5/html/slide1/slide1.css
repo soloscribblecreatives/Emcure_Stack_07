@@ -12,11 +12,11 @@
 
 .s2 {
 	position: absolute;
-  left: 720px;
-  top: 257px;
-  width: 360px;
-  height: 159px;
-	animation: slideInRight 0.7s ease-out;
+  left: 92px;
+  top: 81px;
+  width: 479px;
+  height: 163px;
+	animation: fadeInUp 0.5s;
 	animation-delay: 0.2s;
 	animation-fill-mode: both;
 	z-index: 5;
@@ -24,11 +24,11 @@
 
 .s3 {
 	position: absolute;
-  left: 60px;
-  top: 101px;
-  width: 472px;
-  height: 154px;
-	animation: fadeInRight 0.5s;
+  left: 961px;
+  top: 60px;
+  width: 74px;
+  height: 34px;
+	animation: none 0.5s;
 	animation-delay: 1s;
 	animation-fill-mode: both;
 	z-index: 5;
